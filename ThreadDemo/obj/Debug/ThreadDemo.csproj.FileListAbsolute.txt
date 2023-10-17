@@ -1,0 +1,11 @@
+D:\Data\New folder\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+D:\Data\New folder\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.exe
+D:\Data\New folder\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.pdb
+D:\Data\New folder\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.csproj.AssemblyReference.cache
+D:\Data\New folder\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.csproj.SuggestedBindingRedirects.cache
+D:\Data\New folder\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.Form1.resources
+D:\Data\New folder\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.Properties.Resources.resources
+D:\Data\New folder\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.csproj.GenerateResource.cache
+D:\Data\New folder\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.csproj.CoreCompileInputs.cache
+D:\Data\New folder\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.exe
+D:\Data\New folder\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.pdb
